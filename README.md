@@ -93,8 +93,4 @@ Here is a list of sources used for this project.
 3. [Random Forest Regression](https://levelup.gitconnected.com/random-forest-regression-209c0f354c84)
 4. [Pandas Moving Average by Group](https://www.statology.org/pandas-moving-average-by-group/)
 
-### Videos
 
-1. [The Machine Learning Revolution by Marcos López de Prado](https://www.youtube.com/watch?v=7i0RFtZu4Ek) (Andres Oloms, published 23.06.2019)
-
-work in progress
